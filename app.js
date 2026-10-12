@@ -1,3 +1,3 @@
 console.log("Hello");
-const title = "My App";
+const title = "My Awesome App";
 const footer = "Copyright 2026";
